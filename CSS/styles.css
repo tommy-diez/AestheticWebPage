@@ -1,0 +1,169 @@
+
+body {
+  margin: 0;
+  text-align: center;
+
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625em;
+  color: #66BFBF;
+}
+
+p {
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size: smaller;
+  line-height: 2;
+  color: #40514E; 
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.top-container {
+  padding-top: 100px;
+  background-color: #e4f9f5;
+
+
+}
+
+.middle-container {
+  padding-top: 50px;
+
+}
+
+.bottom-container {
+  font-family: 'Merriweather Sans', sans-serif;
+  margin-top: 0;
+  background-color: #66BFBF;
+  height: 200px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 30px;
+  right: 425px;
+}
+
+.computer-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  border-radius: 100%;
+
+
+}
+.soft-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+  border-radius: 100%;
+  position: relative;
+  bottom: 85px;
+}
+
+
+.propic{
+  border-radius: 100%;
+  width: 15%;
+  text-align: center;
+}
+
+hr {
+  border-style: dotted;
+  border-width: 6px;
+  width: 3%;
+  border-top: 1px;
+  margin-top: 0;
+  color: grey;
+}
+
+.icon {
+  height: 40px;
+}
+
+.intro {
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+
+
+}
+.skill-row{
+  margin: 50px auto 100px auto;
+  width: 50%;
+  text-align: left;
+
+
+}
+.skills{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+
+.soft-text{
+  text-align: left;
+  line-height: 2;
+
+
+}
+.tech-text{
+  text-align: left;
+  line-height: 2;
+
+}
+.profile{
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.footer{
+  position: relative;
+  top: 50px;
+}
+
+.contact-me{
+  margin: 50px auto 50px auto;
+}
+.copywright{
+  color: #EAF6F6;
+}
+.myButton {
+	box-shadow:inset 0 1px 0 0 #bbdaf7;
+	background-color:#11999E;
+	border-radius:6px;
+	border:1px solid #84bbf3;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Merriweather Sans', sans-serif;
+	font-size:15px;
+	font-weight:normal;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #528ecc;
+}
+.myButton:hover {
+	background-color:#66BFBF;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
